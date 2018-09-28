@@ -43,7 +43,7 @@
  *
  * --/COPYRIGHT--*/
 //******************************************************************************
-//   Description: Toggle the LED states on P1.0 and P4.7 based on a timer
+//   Description: Use the button on P2.1 to set the rate of the P1.0 LED blinking
 //
 //                MSP430F552x
 //             -----------------
